@@ -23,3 +23,6 @@ Estudante de **Cibersegurança** focada em análise de registos (logs), automaç
 ### Projetos em Destaque
 * **[ruby-cybersecurity-logs](https://github.com/jordaniadesouza/ruby-cybersecurity-logs):** Repositório prático com scripts em Ruby aplicados à análise de logs, redes, timestamps e validação de e-mails.
 * **[cybersecurity-labs](https://github.com/jordaniadesouza/cybersecurity-labs):** Documentação e exercícios práticos de laboratório em cibersegurança (esteganografia, análise de tráfego e segurança web).
+### Perfis Práticos & Plataformas (Labs / CTFs)
+* **TryHackMe:** [tryhackme.com/p/jordanyasousa](https://tryhackme.com/p/jordanyasousa) — Fundamentos de Cibersegurança, Operações de SOC (Blue Team) e Segurança Ofensiva.
+* **Hack The Box:** [profile.hackthebox.com/profile/K0LK](https://profile.hackthebox.com/profile/K0LK) — Módulos práticos de redes, sistemas e segurança aplicada.
