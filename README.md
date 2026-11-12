@@ -16,7 +16,7 @@ Estudante de **Cibersegurança** focada em análise de registos (logs), automaç
 * **Linguagem de Programação:** Ruby
 * **Tecnologias & Servidores Web:** HTML5, CSS3, Apache HTTP Server
 * **Análise de Rede, Segurança & Serviços:** Wireshark, OWASP ZAP, WireGuard, NetSpot, Zoiper, Pegasus Mail
-* **Sistemas & Controlo de Versão:** Linux, macOS, Git, GitHub, VS Code
+* **Sistemas Operativos & Controlo de Versão:** Windows, Linux, macOS, Git, GitHub, VS Code
 
 ---
 
